@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div style="text-align: left">
 <img src="https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
