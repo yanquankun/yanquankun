@@ -7,7 +7,7 @@
 </div>
 
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table style="margin-left: auto; margin-right: auto;text-align: center; border: none;">
         <tr>
             <td>
 			<p></p>
