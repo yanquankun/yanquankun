@@ -1,6 +1,8 @@
-<p align = "center">
-  <img src = "https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4KUHD_16_9.png">
-</p>
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27">
