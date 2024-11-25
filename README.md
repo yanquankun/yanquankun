@@ -28,6 +28,25 @@
     </table>
 </html>
 
+<html>
+	<div style="display: inline-block!important;width:50%;text-align: center;">
+
+- 🔭 I’m currently working on 👻
+- 🌱 I’m currently learning rust and supplementary front-end technology
+- 💬 Ask me about ...
+- 📫 How to reach me: [163邮箱联系](mailto:17600610907@163.com)
+- 😄 Pronouns: He/Him.
+- 📕 Latest Blog: https://www.yanquankun.com
+- ⚡ Fun fact: Eat delicious food
+  </div>
+
+<div style="display: inline-block!important;width:50%;text-align: center;">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27"> -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
+</div>
+
+</html>
+
 <p align="center"><marquee align = "center"><b>
 <font color="#e66b6d">少</font>
 <font color="#e66d98">管</font>
