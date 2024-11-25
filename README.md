@@ -7,7 +7,7 @@
 </div>
 
 <html>
-<div style="display: inline-block!important;width:50%;text-align: center;">
+<div style="display: inline-block!important;width:50%;">
 
 - 🔭 I’m currently working on 👻
 - 🌱 I’m currently learning rust and supplementary front-end technology
