@@ -7,7 +7,7 @@
 </div>
 
 <html>
-    <table style="margin-left: auto; margin-right: auto;text-align: center; border: none;">
+    <table style="border-collapse: collapse; margin-left: auto; margin-right: auto;text-align: center; border: none;">
         <tr style="border: none;">
             <td style="border: none;">
 			<p></p>
