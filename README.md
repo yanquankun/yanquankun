@@ -1,5 +1,3 @@
-<div align=center>![暗色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg)
-
 <div style="text-align: center">
 <img src="https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
