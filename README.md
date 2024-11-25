@@ -1,11 +1,7 @@
-![亮色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake.svg)
 ![暗色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27">
-</p>
-
-<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
 </p>
 
@@ -27,7 +23,3 @@
 <font color="#e62c2c">变</font>
 <font color="#e60101">shit</font>		
 </b></marquee></p>
-
-<p align="center">
-  <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</p>
