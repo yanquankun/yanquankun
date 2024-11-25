@@ -1,4 +1,4 @@
-<div align="center">!![暗色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">!![暗色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg)</div>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27">
