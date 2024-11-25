@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
+<div align="center">
   <img src="https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
