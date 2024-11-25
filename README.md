@@ -17,7 +17,7 @@
 - 📕 Latest Blog: https://www.yanquankun.com
 - ⚡ Fun fact: Eat delicious food
 </div>
-<div style="display: inline-block!important;width:45%;text-align: center;">
+<div style="display: inline-block!important;width:40%;text-align: center;">
   <!-- <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
 </div>
