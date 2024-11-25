@@ -8,7 +8,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
 </p>
 
-<marquee><b><font color="#e66b6d">双</font>
+<marquee align = "center"><b><font color="#e66b6d">双</font>
 				<font color="#e66d98">手</font>
 				<font color="#e66cc6">合</font>
 				<font color="#cc6de6">十</font>
