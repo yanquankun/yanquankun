@@ -1,6 +1,4 @@
-<p align = "center">
-  <img src = "[https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake.svg)">
-</p>
+![亮色](https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake.svg)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27">
