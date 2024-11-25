@@ -8,8 +8,8 @@
 
 <html>
     <table style="margin-left: auto; margin-right: auto;text-align: center; border: none;">
-        <tr>
-            <td>
+        <tr style="border: none;">
+            <td style="border: none;">
 			<p></p>
                 
 - 🔭 I’m currently working on 👻
@@ -20,7 +20,7 @@
 - 📕 Latest Blog: https://www.yanquankun.com
 - ⚡ Fun fact: Eat delicious food
             </td>
-            <td>
+            <td style="border: none;">
                 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27"> -->
                 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
             </td>
