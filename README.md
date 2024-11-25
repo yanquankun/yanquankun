@@ -6,10 +6,27 @@
   <img src="https://github.com/yanquankun/yanquankun/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-<p align = "center">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27"> -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
-</p>
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+			<p></p>
+                
+- 🔭 I’m currently working on 👻
+- 🌱 I’m currently learning rust and supplementary front-end technology
+- 💬 Ask me about ...
+- 📫 How to reach me: [163邮箱联系](mailto:17600610907@163.com)
+- 😄 Pronouns: He/Him.
+- 📕 Latest Blog: https://www.yanquankun.com
+- ⚡ Fun fact: Eat delicious food
+            </td>
+            <td>
+                <!-- <img src = "https://github-readme-stats.vercel.app/api?username=yanquankun&show_icons=true&theme=tokyonight&line_height=27"> -->
+                <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
+            </td>
+        </tr>
+    </table>
+</html>
 
 <p align="center"><marquee align = "center"><b>
 <font color="#e66b6d">少</font>
