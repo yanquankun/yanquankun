@@ -7,7 +7,8 @@
 </div>
 
 <html>
-<div style="display:flex;justify-content: space-between;">
+<div style="display:flex;justify-content: space-between;flex-direction: column;
+">
 <div>
 
 - 🔭 I’m currently working on 👻
