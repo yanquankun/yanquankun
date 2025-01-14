@@ -17,7 +17,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [163邮箱联系](mailto:17600610907@163.com)
 - 😄 Pronouns: He/Him.
-- 📕 Latest Blog: https://www.yanquankun.com
+- 📕 Latest Blog: https://www.yanquankun.cn
 - ⚡ Fun fact: Eat delicious food
             </td>
             <td>
@@ -28,13 +28,10 @@
 </html>
 
 <p align="center"><marquee align = "center"><b>
-<font color="#e66b6d">少</font>
-<font color="#e66d98">管</font>
-<font color="#e66cc6">闲</font>
-<font color="#cc6de6">事</font>
-<font color="#9770e6">多</font>
+<font color="#e66b6d">好</font>
+<font color="#e66d98">好</font>
 <font color="#6d93e6">学</font>
-<font color="#6fcde6">习</font>, 				
+<font color="#6fcde6">习</font>！				
 <font color="#cde670">今</font>
 <font color="#e6df72">天</font>
 <font color="#e6c073">不</font>
