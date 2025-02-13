@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="[https://www.yanquankun.cn/cdn/mini-program-qrcode.png](https://www.yanquankun.cn/cdn/gongzhonghao-qrcode.jpg)" alt="Coder GIF" width="500">
+  <img src="https://www.yanquankun.cn/cdn/mini-program-qrcode.png" alt="Coder GIF" width="500">
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
