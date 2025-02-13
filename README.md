@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <title>欢迎关注个人微信小程序|个人公众号</title>
   <img src="https://www.yanquankun.cn/cdn/mini-program-qrcode.png" alt="Coder GIF" width="200">
   <img src="https://www.yanquankun.cn/cdn/gongzhonghao-qrcode.jpg" alt="Coder GIF" width="200">
 </div>
