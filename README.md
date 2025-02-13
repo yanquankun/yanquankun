@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="hhttps://www.yanquankun.cn/cdn/gongzhonghao-qrcode.jpg" alt="Coder GIF" width="200">
   <img src="https://www.yanquankun.cn/cdn/mini-program-qrcode.png" alt="Coder GIF" width="200">
+  <img src="https://www.yanquankun.cn/cdn/gongzhonghao-qrcode.jpg" alt="Coder GIF" width="200">
 </div>
 
 <div align="center">
