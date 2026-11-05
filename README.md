@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+    alt="程序员编程动画"
+    width="100%"
+  >
+</p>
+
 <h1 align="center">Hi, I'm yanquankun</h1>
 
 <p align="center">
