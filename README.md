@@ -26,9 +26,6 @@
 - 📕 Latest Blog: https://www.yanquankun.cn
 - ⚡ Fun fact: Eat delicious food
             </td>
-            <td>
-               <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yanquankun&theme=radical">
-            </td>
         </tr>
     </table>
 </html>
