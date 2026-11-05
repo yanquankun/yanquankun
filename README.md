@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm yanquankun</h1>
+
 <p align="center">
   <img
     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
@@ -5,8 +7,6 @@
     width="100%"
   >
 </p>
-
-<h1 align="center">Hi, I'm yanquankun</h1>
 
 <p align="center">
   写代码，记所学，也认真享受生活。
